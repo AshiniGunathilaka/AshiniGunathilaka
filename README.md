@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Openshift**
 
-- 📫 How to reach me **ashini.gun@gmail.com**
+- 📫 How to reach me **ashini.asg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
