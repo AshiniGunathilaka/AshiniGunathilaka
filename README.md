@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashini gunathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashini gunathilaka" height="30" width="40" /></a>
 <a href="https://instagram.com/ashini__gunathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashini__gunathilaka" height="30" width="40" /></a>
-<a href="https://discord.gg/ashinishehara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ashinishehara" height="30" width="40" /></a>
+<a href="https://discord.gg/Ashini Shehara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashini Shehara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
