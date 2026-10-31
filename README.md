@@ -26,7 +26,7 @@ Java · SQL · Power BI · TensorFlow · HTML · CSS · PHP
 
 <p align="left">
 I'm always happy to connect with people who share an interest in technology, research and innovation.
-- 📫  **ashini.asg@gmail.com** src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashini__gunathilaka" height="30" width="40" /></a>
+- 📫  **ashini.asg@gmail.com** 
 <a href="https://discord.gg/Ashini Shehara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashini Shehara" height="30" width="40" /></a>
 </p>
 
