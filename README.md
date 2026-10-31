@@ -1,11 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ashini Gunathilaka</h1>
-<h3 align="center">From SriLanka</h3>
+<h1 align="center">Hey there! 👋 I'm Ashini</h1>
+<h3 align="center">Welcome to my GitHub!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashinigunathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="ashinigunathilaka" /> </p>
 
-- 🌱 I’m currently learning **Openshift**
+- 
 
-- 📫 How to reach me **ashini.asg@gmail.com**
+I'm a Computing and Information Systems undergraduate who enjoys learning about technology, exploring new ideas and building projects.
+
+My journey has taken me from academic software development projects to international research in Japan. I've had the opportunity to explore AI and Machine Learning at Shibaura Institute of Technology, and I'm always interested in discovering how technology can be used to solve everyday problems.
+
+What I'm Exploring
+Artificial Intelligence and Machine Learning
+Data Analytics and Visualisation
+Software Quality Assurance
+Automation and Emerging Technologies
+
+Technologies I've Worked With
+Java · SQL · Power BI · TensorFlow · HTML · CSS · PHP
+
+🤝 Let's Connect!
+
+I'm always happy to connect with people who share an interest in technology, research and innovation.
+- 📫  **ashini.asg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
