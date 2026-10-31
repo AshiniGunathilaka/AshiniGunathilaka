@@ -29,4 +29,4 @@ I've had the opportunity to explore AI and Machine Learning through my research 
 I'm always happy to connect with people who share an interest in technology, research and innovation. 
 - 📫 : ashini.asg@gmail.com
 
-✨ Always learning, building and growing!
+Always learning, building and growing!
