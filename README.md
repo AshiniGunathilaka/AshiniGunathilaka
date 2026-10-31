@@ -20,7 +20,7 @@ I've had the opportunity to explore AI and Machine Learning through my research 
   <img src="https://skillicons.dev/icons?i=java,html,css,php,mysql,python,tensorflow,git,github,vscode" />
 </p>
 
-### 📊 GitHub Statistics
+
 
 
 
