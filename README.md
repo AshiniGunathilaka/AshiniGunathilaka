@@ -8,11 +8,11 @@ I'm a Computing and Information Systems undergraduate with an interest in techno
 
 I've had the opportunity to explore AI and Machine Learning through my research experience at Shibaura Institute of Technology, Japan. I enjoy learning new technologies, experimenting with ideas and developing projects that solve real-world problems.
 
-### 🌱 What I'm Exploring
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analytics & Visualisation
-- 🧪 Software Quality Assurance
-- ⚙️ Automation & Emerging Technologies
+###  What I'm Exploring
+-  Artificial Intelligence & Machine Learning
+-  Data Analytics & Visualisation
+-  Software Quality Assurance
+-  Automation & Emerging Technologies
 
 ### 🛠️ Languages and Tools
 
@@ -22,13 +22,11 @@ I've had the opportunity to explore AI and Machine Learning through my research 
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashinigunathilaka&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashinigunathilaka&layout=compact&theme=tokyonight)
 
 ### 🤝 Let's Connect!
 
-- 💼 LinkedIn: ADD_YOUR_LINKEDIN_URL
-- 📧 Email: ashini.asg@gmail.com
+I'm always happy to connect with people who share an interest in technology, research and innovation. 
+- 📫 : ashini.asg@gmail.com
 
 ✨ Always learning, building and growing!
