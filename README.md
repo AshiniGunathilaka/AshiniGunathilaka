@@ -6,7 +6,7 @@
 
 I'm a Computing and Information Systems undergraduate with an interest in technology, research and innovation.
 
-I've had the opportunity to explore AI and Machine Learning through my research experience at Shibaura Institute of Technology, Japan. I enjoy learning new technologies, experimenting with ideas and developing projects that solve real-world problems.
+I've had the opportunity to explore AI and Machine Learning through my research experience at SIT, Japan. I enjoy learning new technologies, experimenting with ideas and developing projects that solve real-world problems.
 
 ###  What I'm Exploring
 -  Artificial Intelligence & Machine Learning
