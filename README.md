@@ -1,36 +1,34 @@
-<h1 align="center">Hey there! 👋 I'm Ashini</h1>
-<h3 align="center">Welcome to my GitHub!</h3>
+# Hey there! 👋 I'm Ashini Gunathilaka
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashinigunathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="ashinigunathilaka" /> </p>
+### Welcome to my GitHub! 💻
 
-- 
+![Profile Views](https://komarev.com/ghpvc/?username=ashinigunathilaka&label=Profile%20Views&color=0e75b6&style=flat)
 
-I'm a Computing and Information Systems undergraduate who enjoys learning about technology, exploring new ideas and building projects.
+I'm a Computing and Information Systems undergraduate with an interest in technology, research and innovation.
 
-My journey has taken me from academic software development projects to international research in Japan. I've had the opportunity to explore AI and Machine Learning at Shibaura Institute of Technology, and I'm always interested in discovering how technology can be used to solve everyday problems.
+I've had the opportunity to explore AI and Machine Learning through my research experience at Shibaura Institute of Technology, Japan. I enjoy learning new technologies, experimenting with ideas and developing projects that solve real-world problems.
 
-What I'm Exploring
-Artificial Intelligence and Machine Learning
-Data Analytics and Visualisation
-Software Quality Assurance
-Automation and Emerging Technologies
+### 🌱 What I'm Exploring
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics & Visualisation
+- 🧪 Software Quality Assurance
+- ⚙️ Automation & Emerging Technologies
 
-Technologies I've Worked With
-Java · SQL · Power BI · TensorFlow · HTML · CSS · PHP
+### 🛠️ Languages and Tools
 
-
-
-
-
-<h3 align="left">🤝 Let's Connect!</h3>
-
-<p align="left">
-I'm always happy to connect with people who share an interest in technology, research and innovation.
-- 📫  **ashini.asg@gmail.com** 
-<a href="https://discord.gg/Ashini Shehara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashini Shehara" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,php,mysql,python,tensorflow,git,github,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### 📊 GitHub Statistics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashinigunathilaka&show_icons=true&locale=en&layout=compact" alt="ashinigunathilaka" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashinigunathilaka&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashinigunathilaka&layout=compact&theme=tokyonight)
+
+### 🤝 Let's Connect!
+
+- 💼 LinkedIn: ADD_YOUR_LINKEDIN_URL
+- 📧 Email: ashini.asg@gmail.com
+
+✨ Always learning, building and growing!
